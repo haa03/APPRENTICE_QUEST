@@ -1,5 +1,5 @@
 # APPRENTICE_QUEST
-## Overview
+### Overview
 > APPRENTICEのQUESTの管理を行うリポジトリです。
-## Discription
+### Discription
 > week〇-〇 : その期間のQUESTを管理するディレクトリです。
