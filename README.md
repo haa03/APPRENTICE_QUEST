@@ -1,2 +1,2 @@
 
-* APPRENTICEのQUEST管理リポジトリです *
+APPRENTICEのQUEST管理リポジトリです 
