@@ -1,7 +1,7 @@
 require_relative 'card'
 
 class Deck
-  SUITS = ["ハート", "ダイヤ", "クローバー", "スペード"]
+  SUITS = ["♥", "♦", "♣", "♠"]
   RANKS = ["2", "3", "4", "5", "6", "7", "8", "9", "10", "A", "J", "Q", "K"]
 
   def initialize
